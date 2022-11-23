@@ -19,6 +19,12 @@
 
 
 
+## 📫 How to reach me:
+<div>
+<a href='https://www.linkedin.com/in/ketul-marfatia/'><img align='left' src='https://raw.githubusercontent.com/Ketul-BYPT/Ketul-BYPT/main/images/linkedin.png' alt='icon | LinkedIn' width='21px'/></a>
+</div>
+<br/>
+
 ## Github stats:
 
 [![Ketul's GitHub stats at BYPT](https://github-readme-stats.vercel.app/api?username=ketul-BYPT)](https://github.com/ketul-BYPT/github-readme-stats)
