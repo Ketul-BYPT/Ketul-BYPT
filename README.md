@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
+<p align=”center”>
 <img src=”/Users/apple/Documents/1668689669256.jpg" alt=”my banner”>
+</p>
 <!--
 **Ketul-BYPT/Ketul-BYPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
