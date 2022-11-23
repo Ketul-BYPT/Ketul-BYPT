@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-  <video width="320" height="240" controls>
-    <source src="https://user-images.githubusercontent.com/103916464/203489049-9421c601-8f05-4000-9be6-ce175205c941.mp4" type="video/mp4">
-  </video>
+
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 <!--
 **Ketul-BYPT/Ketul-BYPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
