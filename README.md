@@ -19,6 +19,16 @@ Ketul Marfatia here, performing a brain exercise and providing solutions through
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 
+##### Projects BYPT worked for:
+----
+<div>
+![banner video] (https://user-images.githubusercontent.com/103916464/205277970-77c0d7a7-e182-40ca-a13a-5bda97322df4.mp4)
+</div>
+
+
+![lotus image] (https://www.thoughtco.com/thmb/O__EjyNxlN7O_tlfSfMPcYD8AFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lotus-flower-828457262-5c6334b646e0fb0001dcd75a.jpg)
+
+
 
 ## 📫 How to reach me:
 <div>
