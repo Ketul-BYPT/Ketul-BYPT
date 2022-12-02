@@ -1,4 +1,5 @@
 ### Hi there👋
+Ketul Marfatia here, performing a brain exercise and providing solutions through any means is my core built, coding has been my best mean to achieve that and far we all have come.Having 3 years of IT experience I jumped on the programming languages but intent to deliver remained same, the former years i was thorough on c# and sql and currently I am a javascript aficionado and working for frameworks like React JS for front-end and node JS for the back-end.As you visited me over here feel free to go through my git contributions and adding helping aid to your journey, many thanks !.
 
 <p>
 <img src='https://user-images.githubusercontent.com/103916464/203501896-23b2e34e-b8da-41de-92eb-fbf90526a96f.png' alt='my banner'>
