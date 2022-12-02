@@ -22,11 +22,9 @@ Ketul Marfatia here, performing a brain exercise and providing solutions through
 ##### Projects BYPT worked for:
 ----
 <div>
-![banner video] (https://user-images.githubusercontent.com/103916464/205277970-77c0d7a7-e182-40ca-a13a-5bda97322df4.mp4)
+<video src='https://user-images.githubusercontent.com/103916464/205277970-77c0d7a7-e182-40ca-a13a-5bda97322df4.mp4' >
 </div>
 
-
-![lotus image] (https://www.thoughtco.com/thmb/O__EjyNxlN7O_tlfSfMPcYD8AFc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lotus-flower-828457262-5c6334b646e0fb0001dcd75a.jpg)
 
 
 
